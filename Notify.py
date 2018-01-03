@@ -1,8 +1,7 @@
 import threading
 from datetime import datetime
 
-# Priority constants
-
+# priority constants
 HIGH = 1
 LOW = 0
 
